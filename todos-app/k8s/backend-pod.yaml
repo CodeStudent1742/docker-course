@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: todo-backend-app
-      image: bukalra2/todo-backend:1.0.1
+      image: widar1742/todo-backend:1.0.0
       ports:
         - containerPort: 8000
